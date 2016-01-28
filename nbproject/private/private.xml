@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/Duck.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/FlyBehavior.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/StrategyPattern.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/RedheadDuck.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/Quack.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/RubberDuck.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/MallardDuck.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/MuteQuack.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/FlyWithWings.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/FlyNoWay.java</file>
+            <file>file:/Users/Charles/Downloads/1/Netbeans_Workspace/StrategyPattern/src/strategypattern/Squeak.java</file>
+        </group>
+    </open-files>
+</project-private>
